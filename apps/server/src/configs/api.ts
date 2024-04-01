@@ -1,5 +1,5 @@
 export const LOGIN_PAGE = {
-  URL: 'https://passport2.chaoxing.com/mlogin?fid=&newversion=true&refer=http%3A%2F%2Fi.chaoxing.com',
+  URL: 'https://passport2.chaoxing.com/mlogin?fid=&newversion=true&refer=https%3A%2F%2Fi.chaoxing.com',
   METHOD: 'GET'
 };
 export const LOGIN = {
